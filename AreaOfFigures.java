@@ -1,9 +1,7 @@
 package Mypacks;
 import java.util.Scanner;
-
 public class AreaOfFigures {
-
-	public static void main(String[] args) {
+   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the Length : ");
     float length=sc.nextFloat();
